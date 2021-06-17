@@ -48,7 +48,7 @@ I do not really know what its like to be part of an actual team yet since all th
       </tr>
          
       <tr>
-            <td>Judging</td>
+           <td>Judging</td>
            <td>57%</td>
       </tr>
       
@@ -96,7 +96,7 @@ Strategy	Constant Improvement
   
     <tr>
       <td>Solitary</td>
-        <td>13</td>
+      <td>13</td>
     </tr>
   
     <tr>
