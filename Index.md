@@ -57,7 +57,8 @@ I do not really know what its like to be part of an actual team yet since all th
         <td>58%</td>
       </tr>
       
-      </table>
+</table>
+      
 Role	Sentinel
 Strategy	Constant Improvement</p>
   
