@@ -13,13 +13,13 @@ I graduated from Springwood State Highschool in 2020d, and I'm usually the quiet
 <h1>Ideal Job</h1>
 <p>As of now, I still have no idea what I want to do for my career. But some branches that peak my interest are;</p>
 <p>•	Computer Systems Configure and Test
-<a href="https://www.seek.com.au/job/52531566?type=promoted#searchRequestToken=9f8832fd-c94f-4e02-9891-bf28722b0595">Click me ;)</a></p>
+<a href="https://www.seek.com.au/job/52531566?type=promoted#searchRequestToken=9f8832fd-c94f-4e02-9891-bf28722b0595">Seek.com.au</a></p>
 <p>•	Electron’s production engineer 
-<a href="https://www.seek.com.au/job/52500325?type=standard#searchRequestToken=82b12d87-2498-4ed0-97e1-b30600aee2d7">Click me :^)</a></p>
+<a href="https://www.seek.com.au/job/52500325?type=standard#searchRequestToken=82b12d87-2498-4ed0-97e1-b30600aee2d7">Seek.com.au</a></p>
 <p>•	Platform Developer
-<a href="https://www.seek.com.au/job/52356347?type=standout#searchRequestToken=1fc6d478-638b-448e-84dd-fc8979b774c5">Click me ;^)</a></p>
+<a href="https://www.seek.com.au/job/52356347?type=standout#searchRequestToken=1fc6d478-638b-448e-84dd-fc8979b774c5">Seek.com.au</a></p>
 <p>•	3D Animation 
-<a href="https://www.seek.com.au/job/52296654?type=standard#searchRequestToken=6e7b97f4-83d9-4d0f-9798-faf9b9f4827a">Click me :0</a></p>
+<a href="https://www.seek.com.au/job/52296654?type=standard#searchRequestToken=6e7b97f4-83d9-4d0f-9798-faf9b9f4827a">Seek.com.au</a></p>
 <p>•	Game developer</p>
 <p>I am interested in these positions because they seem like an interesting and fun environment to be in. I like the idea of experimenting with code, animation, assembling and testing electronics and it being presented in a way that can be of use to others even in non-ordinary situations.
 As for the requirements needed for each of these, the one trait they all have in common is that they require good problem-solving capabilities, high work proficiency, good teamwork, a degree in said department and at least 2-3 years of hands-on experience at an industry environment. Additionally, for an 3D Animater/Game developer it is required that you have on how game engines work, being able to make 3D or 2D models based on a source material, good mentality, and the ability to work well under deadlines.
