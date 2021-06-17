@@ -19,7 +19,7 @@ I graduated from Springwood State Highschool in 2020d, and I'm usually the quiet
 <p>•	Platform Developer
 <a href="https://www.seek.com.au/job/52356347?type=standout#searchRequestToken=1fc6d478-638b-448e-84dd-fc8979b774c5">Seek.com.au</a></p>
 <p>•	3D Animation 
-<a href="https://www.seek.com.au/job/52296654?type=standard#searchRequestToken=6e7b97f4-83d9-4d0f-9798-faf9b9f4827a">Seek.com.au</a></p>
+<a href="https://www.seek.com.au/job/52500335?type=promoted#searchRequestToken=f376626f-69e5-471b-b537-edf57daba2e2">Seek.com.au</a></p>
 <p>•	Game developer</p>
 <p>I am interested in these positions because they seem like an interesting and fun environment to be in. I like the idea of experimenting with code, animation, assembling and testing electronics and it being presented in a way that can be of use to others even in non-ordinary situations.
 As for the requirements needed for each of these, the one trait they all have in common is that they require good problem-solving capabilities, high work proficiency, good teamwork, a degree in said department and at least 2-3 years of hands-on experience at an industry environment. Additionally, for an 3D Animater/Game developer it is required that you have on how game engines work, being able to make 3D or 2D models based on a source material, good mentality, and the ability to work well under deadlines.
