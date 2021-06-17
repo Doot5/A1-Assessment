@@ -30,7 +30,8 @@ I do not really know what its like to be part of an actual team yet since all th
 <h1>Profile</h1>
 <p>In order to portray what type of learning style I have, I went ahead and did some online test to see where my strengths are. The results within the tables down below show specifically my learning style and personaliity.</p>
       
-<p> <p>Type	“The Logistician” (ISTJ-T)
+<p>
+      <h3>Personality</h3>
     <table style="width:30%">
       <tr>
           <th>Traits</th>
@@ -51,12 +52,12 @@ I do not really know what its like to be part of an actual team yet since all th
         <td>Turbulent</td>       
         <td>58%</td>
       </tr>
-</table>
-      
+</table></p>
+<p>Type	“The Logistician” (ISTJ-T)</p>      
 Role	Sentinel
 Strategy	Constant Improvement</p>
   <p><a href="https://www.16personalities.com">Online Test Nb. 1</a></p>
-  
+    <h3>Learning Style</h3>
 <p><table style="width:30%">
     <tr>
       <th>Traits</th>
