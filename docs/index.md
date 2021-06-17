@@ -55,7 +55,7 @@ I do not really know what its like to be part of an actual team yet since all th
 </table></p>
 <p>Type	“The Logistician” (ISTJ-T)
 Role	Sentinel
-Strategy	Constant Improvement
+<p>Strategy	Constant Improvement</p>
   <a href="https://www.16personalities.com">Online Test Nb. 1</a></p>
     <h3>Learning Style</h3>
 <p><table style="width:30%">
