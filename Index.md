@@ -93,7 +93,7 @@ Strategy	Constant Improvement</p>
     </tr>
   </table></p>
 
-<p>The results of these online test display that my prefered learning style is through Visual and Logical stand points. While being mostly introverted</p>
+<p>The results of these online test display that my prefered learning style is through Visual and Logical stand points. While being mostly introverted, therefore I tend to avoid others and may not be as interesting as others</p>
 
 <h1>Project Ideas</h1>
 <p>I honesty don't know what to put here</p>
