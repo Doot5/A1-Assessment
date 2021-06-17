@@ -55,6 +55,7 @@ I do not really know what its like to be part of an actual team yet since all th
       
 Role	Sentinel
 Strategy	Constant Improvement</p>
+  <p><a href="https://www.16personalities.com/profiles/d3433eb8a622">16Personalities</a></p>
   
 <p><table style="width:30%">
     <tr>
