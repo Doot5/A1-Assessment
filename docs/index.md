@@ -53,7 +53,7 @@ I do not really know what its like to be part of an actual team yet since all th
         <td>58%</td>
       </tr>
 </table></p>
-<p>Type	“The Logistician” (ISTJ-T)</p>      
+<p>Type	“The Logistician” (ISTJ-T)
 Role	Sentinel
 Strategy	Constant Improvement</p>
   <p><a href="https://www.16personalities.com">Online Test Nb. 1</a></p>
