@@ -29,76 +29,62 @@ I do not really know what its like to be part of an actual team yet since all th
 </p>
 <h1>Profile</h1>
 <p>The results of my online test are of the following.</p>
-<p> <p>Type	“The Logistician” (ISTJ-T)
       
+<p> <p>Type	“The Logistician” (ISTJ-T)
     <table style="width:30%">
       <tr>
           <th>Traits</th>
           <th>Percentage</th>
       </tr>
-
       <tr>
           <td>Introverted</td>
           <td>87%</td>
       </tr>
-
       <tr>
           <td>Thinking</td>
           <td>62%</td>
       </tr>
-         
       <tr>
            <td>Judging</td>
            <td>57%</td>
-      </tr>
-      
-       <tr>
+      </tr>       <tr>
         <td>Turbulent</td>       
         <td>58%</td>
       </tr>
-      
 </table>
       
 Role	Sentinel
 Strategy	Constant Improvement</p>
   
-<p>
-<table style="width:30%">
+<p><table style="width:30%">
     <tr>
       <th>Traits</th>
       <th>Total Points</th>
     </tr>
-    
     <tr>
       <td>Visual</td>
       <td>11</td>
     </tr>
-    
     <tr>
       <td>Social</td>
       <td>10</td>
     </tr>
-          
     <tr>
       <td>Physical</td>
       <td>9</td>
     </tr>
-                
     <tr>
       <td>Aural</td>
       <td>6</td>
     </tr>
-  
     <tr>
       <td>Verbal</td>
       <td>5</td>
     </tr>
-  
     <tr>
       <td>Solitary</td>
       <td>13</td>
     </tr>
-  
     <tr>
       <td>Logical</td>
       <td>11</td>
