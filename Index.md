@@ -6,8 +6,7 @@
 <p>My name is Ben Wakefield. My Student number is. s3912783, and you can contact me through my Student email address (S3912783@student.rmit.edu.au).
 I’ve always had an interest in programing, drawing, and technology so if possible, I would like to get onto a career path that relates to at least one of these subjects. I was born and raised in Australia. 
 I graduated from Springwood State Highschool in 2020d, and I'm usually the quiet type but I like to spend my free time with my friends or playing video games for fun.</p>
-   <p>![snake](https://user-images.githubusercontent.com/85399853/122400512-22886780-cfbf-11eb-8f09-91fb972b6a32.jpg)
-      ![Look its Me](https://user-images.githubusercontent.com/85399853/122400492-1d2b1d00-cfbf-11eb-8b61-92078ff0bdda.jpg)</p>
+
 <h1>Interest in IT</h1>
 <p>I have always been curious with how the things around me work. As for the reason for me choosing RMIT over other Tafe courses is because it’ s online study, that way I can work around a busy schedule since I'm still casual. I have no experience in the IT department as of now, but I intend to change that in the near future. Therefore my plan is to understand how many steps are needed in order to make a well performing website/games. Than gain skills to be able to manufacture those ideas into reality.</p>
 
@@ -61,7 +60,6 @@ I do not really know what its like to be part of an actual team yet since all th
       </table>
 Role	Sentinel
 Strategy	Constant Improvement</p>
-<p>![Pie Chart !](https://user-images.githubusercontent.com/85399853/122401300-ceca4e00-cfbf-11eb-86fa-bb986e77efb3.PNG)</p>
   
 <p>
 <table style="width:30%">
@@ -105,7 +103,6 @@ Strategy	Constant Improvement</p>
       <td>11</td>
     </tr>
   </table></p>
-<p>![gwresd](https://user-images.githubusercontent.com/85399853/122401292-cd992100-cfbf-11eb-81b1-de01496acb34.PNG)</p>
 
 <p>The results of these online test display that my prefered learning style is through Visual and Logical stand points. While being mostly introverted</p>
 
