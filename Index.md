@@ -29,8 +29,8 @@ I do not really know what its like to be part of an actual team yet since all th
 </p>
 <h1>Profile</h1>
 <p>The results of my online test are of the following.</p>
-<p><p>Type	“The Logistician” (ISTJ-T)
-
+<p> <p>Type	“The Logistician” (ISTJ-T)
+      
     <table style="width:30%">
       <tr>
           <th>Traits</th>
@@ -62,7 +62,8 @@ Role	Sentinel
 Strategy	Constant Improvement
 </p>
   
-<p><table style="width:30%">
+<p>
+<table style="width:30%">
     <tr>
       <th>Traits</th>
       <th>Total Points</th>
