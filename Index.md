@@ -60,9 +60,8 @@ I do not really know what its like to be part of an actual team yet since all th
       
       </table>
 Role	Sentinel
-Strategy	Constant Improvement
-![Pie Chart !](https://user-images.githubusercontent.com/85399853/122401300-ceca4e00-cfbf-11eb-86fa-bb986e77efb3.PNG)
-</p>
+Strategy	Constant Improvement</p>
+<p>![Pie Chart !](https://user-images.githubusercontent.com/85399853/122401300-ceca4e00-cfbf-11eb-86fa-bb986e77efb3.PNG)</p>
   
 <p>
 <table style="width:30%">
@@ -105,9 +104,8 @@ Strategy	Constant Improvement
       <td>Logical</td>
       <td>11</td>
     </tr>
-  </table>
-![gwresd](https://user-images.githubusercontent.com/85399853/122401292-cd992100-cfbf-11eb-81b1-de01496acb34.PNG)
-</p>
+  </table></p>
+<p>![gwresd](https://user-images.githubusercontent.com/85399853/122401292-cd992100-cfbf-11eb-81b1-de01496acb34.PNG)</p>
 
 <p>The results of these online test display that my prefered learning style is through Visual and Logical stand points. While being mostly introverted</p>
 
