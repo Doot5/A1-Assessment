@@ -28,7 +28,7 @@ To overcome these issues, I hope that the group projects throughout this unit wi
 I do not really know what its like to be part of an actual team yet since all the teams/groups I have been within the past at least one person has been dead weight and I have ended up worrying about every little mistake. 
 </p>
 <h1>Profile</h1>
-<p>The results of my online test are of the following.</p>
+<p>In order to portray what type of learning style I have, I went ahead and did some online test to see where my strengths are. The results within the tables down below show specifically my learning style and personaliity.</p>
       
 <p> <p>Type	“The Logistician” (ISTJ-T)
     <table style="width:30%">
