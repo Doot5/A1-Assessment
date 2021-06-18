@@ -1,8 +1,9 @@
 <!doctype html>
 <html>
 <body>
-<img src="![Picture](https://user-images.githubusercontent.com/85399853/122564052-48c60a00-d088-11eb-92ad-93aa39252bb5.jpg)" alt="a picture of me">
-<img src=![Pies](https://user-images.githubusercontent.com/85399853/122564060-4a8fcd80-d088-11eb-835c-81e34c15be83.PNG)" alt="A pie chart">
+<img src="New-Assessment/Picture.jpg" alt="A picture of me">
+     
+
 <img src=![snake](https://user-images.githubusercontent.com/85399853/122564063-4b286400-d088-11eb-8900-3210895d0f7b.jpg)" alt="My drawing of a snake">
 <img src=![Cake](https://user-images.githubusercontent.com/85399853/122564065-4b286400-d088-11eb-9553-d90623e927bd.PNG)" alt="A Cake Chart">
 <h1>Personal Information</h1>
@@ -95,8 +96,28 @@ I do not really know what its like to be part of an actual team yet since all th
       <td>11</td>
     </tr>
   </table></p>
-
-<p>The results of these online test display that my prefered learning style is through Visual and Logical stand points. While being mostly introverted, therefore I tend to avoid others and may not be as interesting as others</p>
+                           
+                 
+ <table style="width:30%">
+      <tr>
+          <th>Traits</th>
+          <th>Score</th>
+      </tr>
+      <tr>
+          <td>Auditory</td>
+          <td>20%</td>
+      </tr>
+      <tr>
+          <td>Visual</td>
+          <td>40%</td>
+      </tr>   
+      <tr>
+          <td>Tactile</td>
+          <td>40%</td>
+      </tr>
+  </table></p>
+<p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Onlin Test Nb. 3</a></p>
+<p>The results of these online test display that my prefered learning style is through Visual, Tactile and Logical stand points. While being mostly introverted, therefore I tend to avoid others and may not be as interesting as others</p>
 
 <h1>Project Ideas</h1>
 <p>I honesty don't know what to put here</p>
