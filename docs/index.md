@@ -92,7 +92,7 @@ I do not really know what its like to be part of an actual team yet since all th
       <td>11</td>
     </tr>
   </table></p>
-                           
+<p><a href="https://vark-learn.com/the-vark-questionnaire/">Online Test Nb. 1</a></p>                
                  
  <table style="width:30%">
       <tr>
