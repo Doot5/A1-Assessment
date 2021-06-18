@@ -1,7 +1,10 @@
 <!doctype html>
 <html>
 <body>
-
+<img src="![Picture](https://user-images.githubusercontent.com/85399853/122564052-48c60a00-d088-11eb-92ad-93aa39252bb5.jpg)" alt="a picture of me">
+<img src=![Pies](https://user-images.githubusercontent.com/85399853/122564060-4a8fcd80-d088-11eb-835c-81e34c15be83.PNG)" alt="A pie chart">
+<img src=![snake](https://user-images.githubusercontent.com/85399853/122564063-4b286400-d088-11eb-8900-3210895d0f7b.jpg)" alt="My drawing of a snake">
+<img src=![Cake](https://user-images.githubusercontent.com/85399853/122564065-4b286400-d088-11eb-9553-d90623e927bd.PNG)" alt="A Cake Chart">
 <h1>Personal Information</h1>
 <p>My name is Ben Wakefield. My Student number is. s3912783, and you can contact me through my Student email address (S3912783@student.rmit.edu.au).
 I’ve always had an interest in programing, drawing, and technology so if possible, I would like to get onto a career path that relates to at least one of these subjects. I was born and raised in Australia. 
