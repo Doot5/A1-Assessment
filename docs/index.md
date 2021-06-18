@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <body>
-<img src="New-Assessment/Picture.jpg" alt="A picture of me">
+<img src="Picture.jpg" alt="A picture of me">
      
 
 <img src=![snake](https://user-images.githubusercontent.com/85399853/122564063-4b286400-d088-11eb-8900-3210895d0f7b.jpg)" alt="My drawing of a snake">
