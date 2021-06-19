@@ -57,6 +57,7 @@ To overcome these issues, I hope that the group projects throughout this unit wi
         <td>58%</td>
       </tr>
 </table></p>
+       <p>   <img src="https://user-images.githubusercontent.com/85399853/122401300-ceca4e00-cfbf-11eb-86fa-bb986e77efb3.PNG" alt="A Picture of me" width="350"></p>
 <p>Type“The Logistician” (ISTJ-T)</p>
 <p>RoleSentinel</p>
 <p>Strategy Constant Improvement</p>
@@ -96,8 +97,9 @@ To overcome these issues, I hope that the group projects throughout this unit wi
       <td>11</td>
     </tr>
   </table></p>
-<p><a href="https://vark-learn.com/the-vark-questionnaire/">Online Test Nb.2</a></p>                
-                 
+  <p><img src="https://user-images.githubusercontent.com/85399853/122401292-cd992100-cfbf-11eb-81b1-de01496acb34.PNG" alt="A Picture of me" width="350"></p>
+<p><a href="https://vark-learn.com/the-vark-questionnaire/">Online Test Nb.2</a></p>
+                
  <table style="width:30%">
       <tr>
           <th>Traits</th>
@@ -116,12 +118,10 @@ To overcome these issues, I hope that the group projects throughout this unit wi
           <td>40%</td>
       </tr>
   </table></p>
+ <p> <img src="https://user-images.githubusercontent.com/85399853/122646317-e5100f80-d161-11eb-963d-0d0b77d9f30c.PNG" alt="A pie chart to the results" width="350"></p>
 <p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Online Test Nb.3</a></p>
 
 <p>The results of my Personality test shows that I'm an introvert at heart, I like to keep to myself when doing projects as I set patterns throughout my work, as for when these patterns don't match up, i often ask myself why it isn't working, hence the 57% in the judging factor. As for the The Logistcian type of learning, you can find more details about it on <a href="https://www.16personalities.com/istj-personality">16personalities</a>. As for my Learning Style, the results show that I tend to be able to learn better when i'm doing a physical activity, so upon seeing something new I will write it down, set it up in an example website see if theirs pattern to it and then write down exactly how it works <a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table">{Tryit Editor v3.6}</a>. I usually do this by myself in the quiet, but when I'm stuck I see what other people have done for the same issuse, if that doesn't work I will reach out to others. I do not really know what its like to be part of an actual team yet since all the teams/groups I have been within the past at least one person has been dead weight and I have ended up worrying about every little mistake so I'm looking forward to it. </p>
-
-<p><a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table">Tryit Editor v3.6</a></p>
-<a href="https://www.16personalities.com/istj-personality">16personalities</a>
 
 <h1>Project Ideas</h1>
 <p>I honesty don't know what to put here</p>
