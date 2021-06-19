@@ -111,7 +111,7 @@ I do not really know what its like to be part of an actual team yet since all th
           <td>Tactile</td>
           <td>40%</td>
       </tr>
-  </table></p>
+  </table>
 <p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Onlin Test Nb. 3</a></p>
 <p>The results of these online test display that my prefered learning style is through Visual, Tactile and Logical stand points. While being mostly introverted, therefore I tend to avoid others and may not be as interesting as others</p>
 
