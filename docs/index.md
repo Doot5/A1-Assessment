@@ -100,7 +100,7 @@ To overcome these issues, I hope that the group projects throughout this unit wi
       <td>Logical</td>
       <td>11</td>
     </tr>
-  </table></p>
+  </table> 
   <p><img src="https://user-images.githubusercontent.com/85399853/122401292-cd992100-cfbf-11eb-81b1-de01496acb34.PNG" alt="A Picture of me" width="350"></p>
 <p><a href="https://vark-learn.com/the-vark-questionnaire/">Online Test Nb.2</a></p>
                 
