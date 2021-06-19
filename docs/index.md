@@ -8,8 +8,8 @@ I’ve always had an interest in programing, drawing, and technology so if possi
 I graduated from Springwood State Highschool in 2020, and I'm usually the quiet type so I like to spend my free time with my group of friends or playing video games for fun.</p>
       
 
-<img src="https://user-images.githubusercontent.com/85399853/122400492-1d2b1d00-cfbf-11eb-8b61-92078ff0bdda.jpg" width="350">
-<img src="https://user-images.githubusercontent.com/85399853/122400512-22886780-cfbf-11eb-8f09-91fb972b6a32.jpg" width="350">
+<img src="https://user-images.githubusercontent.com/85399853/122400492-1d2b1d00-cfbf-11eb-8b61-92078ff0bdda.jpg" alt="A Picture of me" width="350">
+<img src="https://user-images.githubusercontent.com/85399853/122400512-22886780-cfbf-11eb-8f09-91fb972b6a32.jpg" alt="A stetch of a snake" width="350">
       
 <h1>Interest in IT</h1>
 <p>I have always been curious with how the things around me work. As for the reason for me choosing RMIT over other Tafe courses, it would have to be the fact that it’s online study, that way I can work around a busy schedule since I'm still casual. I have no experience in the IT department as of now, but I intend to change that in the near future. Therefore my plan is to understand how many steps are needed in order to make a well performing website/games. Than gain skills to be able to manufacture those ideas into reality.</p>
