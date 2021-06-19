@@ -116,7 +116,7 @@ To overcome these issues, I hope that the group projects throughout this unit wi
 
 <p>The results of my Personality test shows that I'm an introvert at heart, I like to keep to myself when doing projects as I set patterns throughout my work, as for when these patterns don't match up, i often ask myself why it isn't working, hence the 57% in the judging factor. As for the The Logistcian type of learning, you can find more details about it on 16 Personalities. As for my Learning Style, the results show that I tend to be able to learn better when i'm doing a physical activity, so upon seeing something new I will write it down, set it up in an example website see if theirs pattern to it and then write down exactly how it works. I usually do this by myself in the quiet, but when I'm stuck I see what other people have done for the same issuse, if that doesn't work I will reach out to others. I do not really know what its like to be part of an actual team yet since all the teams/groups I have been within the past at least one person has been dead weight and I have ended up worrying about every little mistake so I'm looking forward to it. </p>
 
-<p><a href="https://www.w3schools.com">This is a link</a></p>
+<p><a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table">This is a link</a></p>
 
 <h1>Project Ideas</h1>
 <p>I honesty don't know what to put here</p>
