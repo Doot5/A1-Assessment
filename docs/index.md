@@ -56,8 +56,12 @@ To overcome these issues, I hope that the group projects throughout this unit wi
         <td>Turbulent</td>       
         <td>58%</td>
       </tr>
-</table></p>
-       <p>   <img src="https://user-images.githubusercontent.com/85399853/122401300-ceca4e00-cfbf-11eb-86fa-bb986e77efb3.PNG" alt="A Picture of me" width="350"></p>
+      <tr>
+        <td>Observant</td>
+        <td>63%</td>
+      </tr>
+</table></p> 
+       <p>   <img src="https://user-images.githubusercontent.com/85399853/122646695-d7f42000-d163-11eb-94fc-e522d0ec2370.PNG" alt="A Picture of me" width="350"></p>
 <p>Type“The Logistician” (ISTJ-T)</p>
 <p>RoleSentinel</p>
 <p>Strategy Constant Improvement</p>
