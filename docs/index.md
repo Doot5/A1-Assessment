@@ -141,18 +141,18 @@ The power ups will be.</p>
 <p>•	Invincibility</p>
 <p>•	A hook shot, this will course you to attach a hook to a player ahead of you, causing you to gain speed while they slow down. the further they are the better result it brings.</p>
 <p>•	Bomb, an area affect power up which blows up after 3 seconds if not touched by a player.</p>
-<p>The courses will have to be the right length otherwise it will be boring for the player and the shortcuts for each course will have to be fair so that it doesn’t give an unfair advantage and that becomes the ‘go to route for that course.
-As for the shape of the course/slope, it will be a hollow cylinder cut in half. It will be on an angle to give players momentum, this way the players can decide to jump off the course into a separate section or stay on the main course.
+<p>The courses will have to be the right length otherwise it will be boring for the player and the shortcuts for each course will have to be fair so that it doesn’t give an unfair advantage and that becomes the ‘go to route' for that course.
+As for the shape of the course/slope, it will be a hollow cylinder cut in half. It will be on an angle to give players momentum, this way the players can decide to jump off the course into a separate sections or stay on the main course.<p>
 
-Since the game is based around marbles going down a slope, I do not want there to be a stop option, but rather the player will be encouraged to go fast as they can to be able to make jumps you would not normally be able to. This will reward the player by giving them a powerup and a slight lead, but not getting them too far ahead making them untouchable for other players. 
+<p>Since the game is based around marbles going down a slope, I do not want there to be a stop option, but rather the player will be encouraged to go fast as they can to be able to make jumps you would not normally be able to. This will reward the player by giving them a powerup and a slight lead, but not getting them too far ahead making them untouchable for other players. </p>
       
-Natural obstacles that will occur throughout courses will be falling rocks that will be a different color than the track so you can see them ahead of time, but since they are going to be falling down on the course some players might not see them, so an indication zone for at least 3-5 seconds will occur before it actually lands.
-As for the movement, the VR users will have to either lean in the direction they want or use the VR controller for movement. While PC users will have to use a mouse and keyboard to direct their movement. 
+<p>Natural obstacles that will occur throughout courses will be falling rocks that will be a different color than the track so you can see them ahead of time, but since they are going to be falling down on the course some players might not see them, so an indication zone for at least 3-5 seconds will occur before it actually lands.
+As for the movement, the VR users will have to either lean in the direction they want or use the VR controller for movement. While PC users will have to use a mouse and keyboard to direct their movement. </p>
       
-Since VR will be being used for this project, the marbles will have to be slightly modified if a 1st person camera is being used or a 3rd person camera. 
-I want the camera to be in 3rd person, so that you can see yourself rolling but that will not really work form a VR standpoint. Thus, players will be able to set their camera position to either inside the marble or from a 3rd person perspective. 
+<p>Since VR will be being used for this project, the marbles will have to be slightly modified if a 1st person camera is being used or a 3rd person camera. 
+I want the camera to be in 3rd person, so that you can see yourself rolling but that will not really work form a VR standpoint. Thus, players will be able to set their camera position to either inside the marble or from a 3rd person perspective. </p>
       
-Additionally, the collision will have to be done in a way so that a slight tap will not send a player flying, this will be done by configuring with the momentum of the marble. So, when one player hits another, they will exchange some of that momentum.
+<p>Additionally, the collision will have to be done in a way so that a slight tap will not send a player flying, this will be done by configuring with the momentum of the marble. So, when one player hits another, they will exchange some of that momentum.
 Blender can be used as a way to make the models required for the project.</p>
    <p><h3>Skills required</h3>
 <p>The skills that would be required to make a project like this would be excellent knowledge of Unity, including experience with scripting, textures and animation. 
