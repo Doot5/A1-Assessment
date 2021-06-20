@@ -128,12 +128,45 @@ To overcome these issues, I hope that the group projects throughout this unit wi
 <p>The results of my Personality test shows that I'm an introvert at heart, I like to keep to myself when doing projects as I set patterns throughout my work, as for when these patterns don't match up, i often ask myself why it isn't working, hence the 57% in the judging factor. As for the The Logistcian type of learning, you can find more details about it on <a href="https://www.16personalities.com/istj-personality">16personalities</a>. As for my Learning Style, the results show that I tend to be able to learn better when i'm doing a physical activity, so upon seeing something new I will write it down, set it up in an example website see if theirs pattern to it and then write down exactly how it works <a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table">{Tryit Editor v3.6}</a>. I usually do this by myself in the quiet, but when I'm stuck I see what other people have done for the same issuse, if that doesn't work I will reach out to others. I do not really know what its like to be part of an actual team yet since all the teams/groups I have been within the past at least one person has been dead weight and I have ended up worrying about every little mistake so I'm looking forward to it. </p>
 
 <h1>Project Ideas</h1>
-<p>I honesty don't know what to put here</p>
-<p>1 tech topic + 1 non tech topic</p>
-<p>an example would be snowboarding, hiking, etc</p>
-<p>and linking wireless tech. </p>
-<p>Think about how these things can be improved upon </p>
+    <p>     <h3>Overview</h3>
+My project idea  will be developing a game similar to rolling marbles using the Unity engine, except in this one you control the marble in VR/AR. This take of the game will involve unique courses, challenges, and several ways to screw with your friends, which is similar to Mario cart. This project will most likely be difficult since I am still new to unity, thus I do not know how the unity engine works and the script’s unity is based on that well.
+If you consider the normal Rolling Marbles game, where you place a marble and watch it go down a slope while competing with dozens of other marbles from a screen, the experience is rather bland. So I want change that aspect in a way that can make it more fun and interactive as well as open new possibilities in the near future. This way the game will not be completely luck based and will encourage the player to improve, even if it is a little.</p>
+    <p><h3>My motivation</h3>
+So my introduction to code is through GitHub and html, but at the beginning of developing a website, I  found it similar to watching a tv series that never ends, which makes it rather tiresome after a few hours. Its also easy to get distracted with so many paths to take but than I came across game development, which to me is like watching a movie. A major factor that helped to make this choice was Bigponds616’s GitHub home page. If you go to his profile, you can see that he has several replica’s of games such as Fruit ninja, Angry birds, Rolling balls and Line rider which inspired me to make this project idea.</p>
+    <p><h3>Description</h3>
+Since this a game, it will be used for entertainment, but for it to be similar to Mario cart, it needs to have situations that can cause chaos for the players, so factors such as power ups, a variety of ways to go, camera movement and obstacles need to be accounted for. 
+The power ups will be.</p>
+<p>•	A rocket, an easy to see obstacle that moves in a forward motion, if it hits a player it will stop them for 1 second and will be able to open up certain pathways of the course.</p>
+<p>•	A slight speedup, which will leave a trail of particles behind you.</p>
+<p>•	Invincibility</p>
+<p>•	A hook shot, this will course you to attach a hook to a player ahead of you, causing you to gain speed while they slow down. the further they are the better result it brings.</p>
+<p>•	Bomb, an area affect power up which blows up after 3 seconds if not touched by a player.</p>
+<p>The courses will have to be the right length otherwise it will be boring for the player and the shortcuts for each course will have to be fair so that it doesn’t give an unfair advantage and that becomes the ‘go to route for that course.
+As for the shape of the course/slope, it will be a hollow cylinder cut in half. It will be on an angle to give players momentum, this way the players can decide to jump off the course into a separate section or stay on the main course.
 
+Since the game is based around marbles going down a slope, I do not want there to be a stop option, but rather the player will be encouraged to go fast as they can to be able to make jumps you would not normally be able to. This will reward the player by giving them a powerup and a slight lead, but not getting them too far ahead making them untouchable for other players. 
+      
+Natural obstacles that will occur throughout courses will be falling rocks that will be a different color than the track so you can see them ahead of time, but since they are going to be falling down on the course some players might not see them, so an indication zone for at least 3-5 seconds will occur before it actually lands.
+As for the movement, the VR users will have to either lean in the direction they want or use the VR controller for movement. While PC users will have to use a mouse and keyboard to direct their movement. 
+      
+Since VR will be being used for this project, the marbles will have to be slightly modified if a 1st person camera is being used or a 3rd person camera. 
+I want the camera to be in 3rd person, so that you can see yourself rolling but that will not really work form a VR standpoint. Thus, players will be able to set their camera position to either inside the marble or from a 3rd person perspective. 
+      
+Additionally, the collision will have to be done in a way so that a slight tap will not send a player flying, this will be done by configuring with the momentum of the marble. So, when one player hits another, they will exchange some of that momentum.
+Blender can be used as a way to make the models required for the project.</p>
+   <p><h3>Skills required</h3>
+<p>The skills that would be required to make a project like this would be excellent knowledge of Unity, including experience with scripting, textures and animation. 
+An example would be.</p>
+<p>•	Familiarity with level design and planning.</p>
+<p>•	Experience with game physics and particle systems.</p>
+<p>•	Experience with mobile and console game development.</p>
+<p>•	Experience with optimizing memory and space usage for support of hardware.</p>
+<p>•	Experience with 3D.</p>
+
+<p><ahref="https://www.toptal.com/unity-unity3d/job-description">Reference for the requirments</a></p>
+    
+<p>In order to learn these skills, I can use “Unity Script” which is “JavaScript” and learn the necessary skills there or I can go to <a href="https://study.sae.edu.au/games/?utm_campaign=SAE-AUS-BNE-SGA-PSE-LDGNR-GGLGENRCSRCH-CDNOTSET-21T3-">C#</a>, which is widely used for developing desktop applications and web services but can also be used in game development with Unity.</p>
+<p>If this project is successful, then I hope that it can be used as a reference for future projects to come. If not, then it would be a good experience since it invloves 3D development, camera movement, player collision and chaos, but in the end of the day its idea of turning something boring into something fun and interesting and fun can be used for pretty much anything, it just needs the right amount of code and enough put into it.</p>
 
 </body>
 </html>
