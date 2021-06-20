@@ -163,10 +163,11 @@ An example would be.</p>
 <p>•	Experience with optimizing memory and space usage for support of hardware.</p>
 <p>•	Experience with 3D.</p>
 
-<p><ahref="https://www.toptal.com/unity-unity3d/job-description">Reference for the requirments</a></p>
+<a href="https://www.toptal.com/unity-unity3d/job-description">Reference for the requiremnets</a>
     
 <p>In order to learn these skills, I can use “Unity Script” which is “JavaScript” and learn the necessary skills there or I can go to <a href="https://study.sae.edu.au/games/?utm_campaign=SAE-AUS-BNE-SGA-PSE-LDGNR-GGLGENRCSRCH-CDNOTSET-21T3-">C#</a>, which is widely used for developing desktop applications and web services but can also be used in game development with Unity.</p>
-<p>If this project is successful, then I hope that it can be used as a reference for future projects to come. If not, then it would be a good experience since it invloves 3D development, camera movement, player collision and chaos, but in the end of the day its idea of turning something boring into something fun and interesting and fun can be used for pretty much anything, it just needs the right amount of code and enough put into it.</p>
+    <p><h3>Conclusion</h3>
+If this project is successful, then I hope that it can be used as a reference for future projects to come. If not, then it would be a good experience since it invloves 3D development, camera movement, player collision and chaos, but in the end of the day its idea of turning something boring into something fun and interesting and fun can be used for pretty much anything, it just needs the right amount of code and enough put into it.</p>
 
 </body>
 </html>
