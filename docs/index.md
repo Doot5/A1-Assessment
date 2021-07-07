@@ -62,48 +62,38 @@ To overcome these issues, I hope that the group projects throughout this unit wi
       </tr>
 </table></p> 
        <p>   <img src="https://user-images.githubusercontent.com/85399853/122646695-d7f42000-d163-11eb-94fc-e522d0ec2370.PNG" alt="A Picture of me" width="350"></p>
-<p>Type“The Logistician” (ISTJ-T)</p>
-<p>RoleSentinel</p>
-<p>Strategy Constant Improvement</p>
+<p>16Personalities  -  Turbulent Logistician. 
+
+Strengths: 
+
+Honest and Direct – Integrity is the heart of the Logistician personality type. Emotional manipulation, mind games and reassuring lies all run counter to Logisticians’ preference for managing the reality of the situations they encounter with plain and simple honesty. 
+
+Strong-willed and Dutiful – Logisticians embody that integrity in their actions too, working hard and staying focused on their goals.  
+
+Very Responsible – Logisticians’ word is a promise, and a promise means everything. Logisticians would rather run themselves into the ground with extra days and lost sleep than fail to deliver the results they said they would. Loyalty is a strong sentiment for Logistician personalities, and they fulfill their duties to the people and organizations they’ve committed themselves to. 
+
+Jacks-of-all-trades – Much like Analyst personality types, Logisticians are proud repositories of knowledge, though the emphasis is more on facts and statistics than concepts and underlying principles. This allows Logisticians to apply themselves to a variety of situations, picking up and applying new data and grasping the details of challenging situations as a matter of course. 
+
+Weaknesses: 
+
+Stubborn – The facts are the facts, and Logisticians tend to resist any new idea that isn’t supported by them. This factual decision-making process also makes it difficult for people with the Logistician personality type to accept that they were wrong about something – but anyone can miss a detail, even them. 
+
+Insensitive – While not intentionally harsh, Logisticians often hurt more sensitive types’ feelings by the simple mantra that honesty is the best policy. Logistician personalities may take emotions into consideration, but really only so far as to determine the most effective way to say what needs to be said. 
+
+Always by the Book – Logisticians believe that things work best with clearly defined rules, but this makes them reluctant to bend those rules or try new things, even when the downside is minimal. Truly unstructured environments leave Logisticians all but paralyzed. 
+
+Often Unreasonably Blame Themselves – All this can combine to make Logisticians believe they are the only ones who can see projects through reliably. As they load themselves with extra work and responsibilities, turning away good intentions and helpful ideas, Logisticians sooner or later hit a tipping point where they simply can’t deliver. Since they’ve heaped the responsibility on themselves, Logisticians then believe the responsibility for failure is theirs alone to bear.</p>
   <p><a href="https://www.16personalities.com">Online Test Nb.1</a></p>
-    <h3>Learning Style</h3>
-<p><table style="width:30%">
-    <tr>
-      <th>Traits</th>
-      <th>Total Points</th>
-    </tr>
-    <tr>
-      <td>Visual</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Social</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>Physical</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Aural</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Verbal</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>Solitary</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>Logical</td>
-      <td>11</td>
-    </tr>
-  </table> 
+   
   <p><img src="https://user-images.githubusercontent.com/85399853/122401292-cd992100-cfbf-11eb-81b1-de01496acb34.PNG" alt="A Picture of me" width="350"></p>
+      Learning Style 
+
 <p><a href="https://vark-learn.com/the-vark-questionnaire/">Online Test Nb.2</a></p>
                 
+      
+      
+      
+      <h3>Your Scores</h3>
  <table style="width:30%">
       <tr>
           <th>Traits</th>
@@ -111,7 +101,7 @@ To overcome these issues, I hope that the group projects throughout this unit wi
       </tr>
       <tr>
           <td>Auditory</td>
-          <td>20%</td>
+          <td>30%</td>
       </tr>
       <tr>
           <td>Visual</td>
@@ -119,13 +109,43 @@ To overcome these issues, I hope that the group projects throughout this unit wi
       </tr>   
       <tr>
             <td>Tactile</td>
-          <td>40%</td>
+          <td>30%</td>
       </tr>
   </table></p>
- <p> <img src="https://user-images.githubusercontent.com/85399853/122646317-e5100f80-d161-11eb-963d-0d0b77d9f30c.PNG" alt="A pie chart to the results" width="350"></p>
+
+Visual 
+
+If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning. 
+As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery. 
+Here are some things that visual learners like you can do to learn better: 
+      
+·         Sit near the front of the classroom. (It won't mean you're the teacher's pet!) 
+·         Have your eyesight checked on a regular basis. 
+·         Use flashcards to learn new words. 
+·         Try to visualize things that you hear or things that are read to you. 
+·         Write down key words, ideas, or instructions. 
+·         Draw pictures to help explain new concepts and then explain the pictures. 
+·         Color code things. 
+·         Avoid distractions during study times. 
+
+Remember that you need to see things, not just hear things, to learn well. 
+ 
 <p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Online Test Nb.3</a></p>
 
-<p>The results of my Personality test shows that I'm an introvert at heart, I like to keep to myself when doing projects as I set patterns throughout my work, as for when these patterns don't match up, i often ask myself why it isn't working, hence the 57% in the judging factor. As for the The Logistcian type of learning, you can find more details about it on <a href="https://www.16personalities.com/istj-personality">16personalities</a>. As for my Learning Style, the results show that I tend to be able to learn better when i'm doing a physical activity, so upon seeing something new I will write it down, set it up in an example website see if theirs pattern to it and then write down exactly how it works <a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table">{Tryit Editor v3.6}</a>. I usually do this by myself in the quiet, but when I'm stuck I see what other people have done for the same issuse, if that doesn't work I will reach out to others. I do not really know what its like to be part of an actual team yet since all the teams/groups I have been within the past at least one person has been dead weight and I have ended up worrying about every little mistake so I'm looking forward to it. </p>
+    <h3>Creative Score</h3>
+
+<p>
+  What do the results mean to me?
+I think these results are mostly true, although I do identify myself as these results. I am someone who is hard working once they are motivated, believes in achieving the best outcome through simplistic means and enjoys learning how to implement HMTL code, but only when I’m not pressured by a deadline. 
+
+How do I think this will influence my behavior in a team?
+I think these results reflect my ability to work in a team. Since I’m usually doing projects alone, I’m often too harsh on myself for making small mistakes. However, my experience with group projects so far has told me that its ok to ask for help. 
+
+How will this affect me joining a team?
+I believe I can fit in most teams, as I’m usually committed and hard working towards the end result. In order to succeed, I usually take things a step at a time and like to set deadlines early, this way I can help any others that may need it. Although things may not always go to plan when planning around casual shifts.  </p>
+
+
+
 
 <h1>Project Idea</h1>
     <p>     <h3>Overview</h3>
