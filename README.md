@@ -6,3 +6,4 @@ Online test results
 ![gwresd](https://user-images.githubusercontent.com/85399853/122401292-cd992100-cfbf-11eb-81b1-de01496acb34.PNG)
 ![Pie Chart !](https://user-images.githubusercontent.com/85399853/122401300-ceca4e00-cfbf-11eb-86fa-bb986e77efb3.PNG)
 ![aeh](https://user-images.githubusercontent.com/85399853/122646317-e5100f80-d161-11eb-963d-0d0b77d9f30c.PNG)
+![GetImage](https://user-images.githubusercontent.com/85399853/124738098-f166db80-df5b-11eb-8e6e-37b8604dd87b.png)
