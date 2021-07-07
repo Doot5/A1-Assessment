@@ -62,7 +62,8 @@ To overcome these issues, I hope that the group projects throughout this unit wi
       </tr>
 </table></p> 
        <p>   <img src="https://user-images.githubusercontent.com/85399853/122646695-d7f42000-d163-11eb-94fc-e522d0ec2370.PNG" alt="A Picture of me" width="350"></p>
-<p>16Personalities  -  Turbulent Logistician. 
+<p>
+      16Personalities  -  Turbulent Logistician. 
 
 <h3>Strengths: </h3>
 
@@ -74,7 +75,7 @@ To overcome these issues, I hope that the group projects throughout this unit wi
 
 <p>Jacks-of-all-trades – Much like Analyst personality types, Logisticians are proud repositories of knowledge, though the emphasis is more on facts and statistics than concepts and underlying principles. This allows Logisticians to apply themselves to a variety of situations, picking up and applying new data and grasping the details of challenging situations as a matter of course. </p>
 
-<h3>Weaknesses: <h3>
+<h3>Weaknesses: </h3>
 
 <p>Stubborn – The facts are the facts, and Logisticians tend to resist any new idea that isn’t supported by them. This factual decision-making process also makes it difficult for people with the Logistician personality type to accept that they were wrong about something – but anyone can miss a detail, even them. </p>
 
@@ -85,7 +86,7 @@ To overcome these issues, I hope that the group projects throughout this unit wi
 <p>Often Unreasonably Blame Themselves – All this can combine to make Logisticians believe they are the only ones who can see projects through reliably. As they load themselves with extra work and responsibilities, turning away good intentions and helpful ideas, Logisticians sooner or later hit a tipping point where they simply can’t deliver. Since they’ve heaped the responsibility on themselves, Logisticians then believe the responsibility for failure is theirs alone to bear.</p>
   <p><a href="https://www.16personalities.com">Online Test Nb.1</a></p>
 
-      <h3>Your Scores</h3>
+   <p>   <h1>Learning Style</h1>
  <table style="width:30%">
       <tr>
           <th>Traits</th>
@@ -103,12 +104,11 @@ To overcome these issues, I hope that the group projects throughout this unit wi
             <td>Tactile</td>
           <td>30%</td>
       </tr>
-  </table></p>
+  </table> </p>
 
-<p>Visual</p>
+<h3>Visual</h3>
 
-<p>If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning. </p>
-<p>As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery. 
+<p>If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning. As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery. 
 Here are some things that visual learners like you can do to learn better: </p>
       
 <p>·         Sit near the front of the classroom. (It won't mean you're the teacher's pet!) </p>
@@ -123,8 +123,10 @@ Here are some things that visual learners like you can do to learn better: </p>
 <p>Remember that you need to see things, not just hear things, to learn well. </p>
  
 <p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Online Test Nb.3</a></p>
-    <h3>Creative Score</h3>
-
+    <h2>Creative Score</h2>
+<p>Total Score = 44</p>
+      
+      
 <h2> What do the results mean to me?</h2>
 <p>I think these results are mostly true, although I do identify myself as these results. I am someone who is hard working once they are motivated, believes in achieving the best outcome through simplistic means and enjoys learning how to implement HMTL code, but only when I’m not pressured by a deadline. </p>
 
