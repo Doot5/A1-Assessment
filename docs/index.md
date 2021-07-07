@@ -125,7 +125,7 @@ Here are some things that visual learners like you can do to learn better: </p>
 <p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Online Test Nb.3</a></p>
     <h2>Creative Score</h2>
 <p>Total Score = 44</p>
-      
+      <img src="https://user-images.githubusercontent.com/85399853/124738098-f166db80-df5b-11eb-8e6e-37b8604dd87b.png" alt="A level chart for creativity" width="350">
       
 <h2> What do the results mean to me?</h2>
 <p>I think these results are mostly true, although I do identify myself as these results. I am someone who is hard working once they are motivated, believes in achieving the best outcome through simplistic means and enjoys learning how to implement HMTL code, but only when I’m not pressured by a deadline. </p>
