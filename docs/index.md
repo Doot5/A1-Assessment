@@ -63,7 +63,7 @@ To overcome these issues, I hope that the group projects throughout this unit wi
 </table></p> 
        <p>   <img src="https://user-images.githubusercontent.com/85399853/122646695-d7f42000-d163-11eb-94fc-e522d0ec2370.PNG" alt="A Picture of me" width="350"></p>
 <p>
-      16Personalities  -  Turbulent Logistician. 
+      Myers-Briggs Test results:  Turbulent Logisticianm - ISTJ-T
 
 <h3>Strengths: </h3>
 
